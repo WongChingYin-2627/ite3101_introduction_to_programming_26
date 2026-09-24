@@ -1,1 +1,1 @@
-print('Mismatched quotes will cause a Syntax')
+print('Mismatched quotes will cause a SyntaxError')
