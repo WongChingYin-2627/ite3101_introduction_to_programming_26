@@ -1,2 +1,2 @@
 print('Mismatched quotes will cause a Syn')
-print()
+print('Without quotes will cause a Name')
