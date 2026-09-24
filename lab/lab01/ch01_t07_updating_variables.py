@@ -1,1 +1,1 @@
-january tojune_rainfall
+january_to_june_rainfall
