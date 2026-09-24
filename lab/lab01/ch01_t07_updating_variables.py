@@ -5,4 +5,4 @@ july_rainfall =1.05
 auunal_rainfall += july_rainfall
 
 august_rainfall + 4.91
-annual
+annual_rainfall 
