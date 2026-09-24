@@ -1,1 +1,1 @@
-annual_rainfall += September_to_Decemb
+annual_rainfall += September_rain + october_rain
