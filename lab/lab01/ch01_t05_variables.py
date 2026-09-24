@@ -1,2 +1,2 @@
 import datetime
-todays_date = datetime.date.today().strft
+todays_date = datetime.date.today()
