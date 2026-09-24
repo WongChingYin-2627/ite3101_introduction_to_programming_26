@@ -1,1 +1,1 @@
-print('Mismatched quotes will cause a ')
+print('Mismatched quotes will cause a Syn')
