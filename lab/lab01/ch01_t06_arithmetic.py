@@ -1,2 +1,2 @@
 product = 6 * 7
-remainder = 6
+remainder = 6 % 43
