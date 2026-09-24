@@ -3,4 +3,4 @@ annual_rainfall += annual_rainfall
 annual_rainfall += september_rain 
 annual_rainfall+= october_rain 
 annual_rainfall+= november_rain 
-+= december_rain
+annual_rainfall+= december_rain
