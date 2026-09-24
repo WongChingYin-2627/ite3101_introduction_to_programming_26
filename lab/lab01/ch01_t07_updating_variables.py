@@ -1,2 +1,1 @@
-
 annual_rainfall += (50+45+30+20)
