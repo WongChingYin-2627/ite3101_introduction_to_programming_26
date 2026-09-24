@@ -4,7 +4,7 @@ annual_rainfall = january_to_june_rainfall
 july_rainfall =05
 annual_rainfall += july_rainfall
 
-august_rainfall + 91
+august_rainfall + 4.91
 annual_rainfall += august_rainfall
 
 september_rainfall = 5.16
