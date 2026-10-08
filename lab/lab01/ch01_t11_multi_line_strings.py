@@ -1,2 +1,4 @@
 haiku = """The old pond,
-A Frog
+A frog jumps in:
+prop!
+"""
