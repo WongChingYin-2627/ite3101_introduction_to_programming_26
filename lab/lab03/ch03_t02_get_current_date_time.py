@@ -1,3 +1,3 @@
 from datetime import datetime
 
-date time
+now = date time
