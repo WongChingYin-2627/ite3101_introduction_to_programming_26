@@ -1,3 +1,3 @@
-parrot = Norweg""
+parrot = Norwegian""
 print
 
