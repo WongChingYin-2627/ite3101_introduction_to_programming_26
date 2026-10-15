@@ -2,4 +2,4 @@ def hotel_cost(nights: int) -> int:
     return 140 * nights
 
 
-def plane _ride
+def plane_ride
