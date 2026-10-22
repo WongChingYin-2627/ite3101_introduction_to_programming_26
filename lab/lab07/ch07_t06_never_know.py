@@ -23,13 +23,4 @@ def rental_car_cost(days: int) -> int:
 
 
 def trip_cost(city: str, days: int) -> int:
-    return rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city)
-
-# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
-global hotel_cost
-global plane_ride_cost
-global rental_car_cost
-
-
-def hotel_cost(nights: int) -> int:
-    return 140 * nights
+    return rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city) + 
