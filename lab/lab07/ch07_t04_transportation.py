@@ -12,8 +12,8 @@ def plane_ride_cost(city: str) -> int:
     elif city == "Los Angeles":
         return 475
 
-def rental_car_cost(: int) -> int:
-    return 140 * nights
+def rental_car_cost(days:int)->int:
+    cost = days nights
 
 
 def plane_ride_cost(city: str) -> int:
