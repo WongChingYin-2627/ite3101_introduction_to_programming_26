@@ -1,11 +1,11 @@
-lloyd ={
+lloyd = {
     "name": "Lloyd",
     "homework": [],
     "quizzes": [],
     "tests": []
 }
 
-alice ={
+alice = {
     "name": "Alice",
         "homework": [],
         "quizzes": [],
