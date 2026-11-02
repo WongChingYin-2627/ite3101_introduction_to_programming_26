@@ -1,3 +1,6 @@
 # Import *just* the sqrt function from math on line 3!
 
-from math
+from math import sqrt
+
+
+print(sqrt)
