@@ -1,4 +1,4 @@
 from typing import Any
 
 
-def distance 
+def distance_from_zero 
