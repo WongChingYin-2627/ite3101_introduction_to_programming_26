@@ -1,1 +1,1 @@
-from typing import Amy
+from typing import Any
