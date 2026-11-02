@@ -2,5 +2,4 @@
 
 import
 
-
 print(sqrt(25))
