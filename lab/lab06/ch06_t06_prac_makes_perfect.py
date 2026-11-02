@@ -1,1 +1,1 @@
-def c
+def cube(number)
