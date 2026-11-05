@@ -1,10 +1,10 @@
 animals = "catdogfrog"
 
 # The first three characters of animals
-cat = None
+cat = 
 
 # The fourth through sixth characters
-dog = None
+dog = 
 
 # From the seventh character to the end
-frog = None
+frog = 
