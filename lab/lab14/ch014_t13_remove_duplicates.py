@@ -2,4 +2,6 @@ from typing import List
 
 
 def remove_duplicates(seq: List[int])-> List[int]:
-    resul
+    result = []
+    for item in seq:
+        if item not in result
