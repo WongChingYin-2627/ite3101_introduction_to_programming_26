@@ -1,1 +1,1 @@
-def facto
+def factorial(x:int)
