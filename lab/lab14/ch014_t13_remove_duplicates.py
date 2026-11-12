@@ -5,4 +5,4 @@ def remove_duplicates(seq: List[int])-> List[int]:
     result = []
     for item in seq:
         if item not in result:
-            resu
+            result.append(it)
