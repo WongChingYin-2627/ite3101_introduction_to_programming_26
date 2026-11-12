@@ -3,4 +3,5 @@ def is_prime(x:int)->bool:
         return False
     else:
         for n in range(2,x-1):
-            if x 
+            if x % n ==0:
+                re
