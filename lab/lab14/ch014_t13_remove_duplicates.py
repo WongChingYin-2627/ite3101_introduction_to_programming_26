@@ -1,1 +1,1 @@
-def remove_dup
+def remove_duplicates()
