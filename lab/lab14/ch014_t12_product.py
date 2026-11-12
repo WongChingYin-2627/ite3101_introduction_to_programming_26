@@ -1,0 +1,5 @@
+
+
+
+
+def product(seq: List[int])
