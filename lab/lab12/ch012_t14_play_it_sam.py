@@ -33,3 +33,5 @@ for turn in range(4):
     guess_col = int(input("Guess Col: "))
     if guess_row == ship_row and guess_col == ship_col:
         print("Congratulations! You sank my battleship!")
+    else:
+        if guess_row not in range(5)
