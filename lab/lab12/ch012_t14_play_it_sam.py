@@ -30,4 +30,5 @@ for turn in range(4):
     print("Turn", turn + 1)
     # Write your code below!
     guess_row = int(input("Guess Row: "))
-    guess_col = int(input)
+    guess_col = int(input("Guess Col: "))
+    if guess_row == ship
