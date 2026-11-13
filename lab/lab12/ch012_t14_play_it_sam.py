@@ -26,3 +26,4 @@ ship_col = random_col(board)
 print(ship_row)
 print(ship_col)
 
+for i
