@@ -26,4 +26,4 @@ ship_col = random_col(board)
 print(ship_row)
 print(ship_col)
 
-for turn in 
+for turn in range(4):
