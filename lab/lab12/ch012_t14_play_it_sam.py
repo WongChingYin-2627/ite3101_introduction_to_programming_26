@@ -35,4 +35,4 @@ for turn in range(4):
         print("Congratulations! You sank my battleship!")
     else:
         if guess_row not in range(5) or guess_col not in range(5):
-            print("Oops, that")
+            print("Oops, that's not even in the ocean.")
