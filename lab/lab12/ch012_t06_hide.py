@@ -14,4 +14,4 @@ def print_board(board_in: List[List[str]]):
 # Add your code below!
 
 
-def random_row(board_in: List[List[str]])
+def random_row(board_in: List[List[str]]) -> int
