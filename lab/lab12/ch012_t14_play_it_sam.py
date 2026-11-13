@@ -27,4 +27,4 @@ print(ship_row)
 print(ship_col)
 
 for turn in range(4):
-    print("Turn")
+    print("Turn", turn)
